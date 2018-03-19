@@ -3,3 +3,4 @@ new file test
 new line test
 
 another branching example
+another branching example
